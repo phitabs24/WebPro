@@ -1,0 +1,31 @@
+*{
+    background-color:black;
+}
+div{
+    width: 50%;
+    margin: 25%;
+        margin-top: 10%;
+    text-align: center;
+
+}
+.quote-image{
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+    width: 100%;
+}
+.quote-head{
+    /* width: 100%; */
+    text-transform: uppercase;
+    margin-bottom: 0;
+    margin-top: 7px;
+
+}
+.quote-body {
+    color: white; 
+}
+
+.quote-head, .quote-body {
+    color: white; 
+    margin-left: 7.5px;
+}
